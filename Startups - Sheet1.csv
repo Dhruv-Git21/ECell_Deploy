@@ -1,0 +1,251 @@
+Name,Sector,Index,Contacts
+Startup 1,Blockchain,1,987-654-3210
+Startup 2,Agriculture,2,876-543-2109
+Startup 3,Blockchain,3,765-432-1098
+Startup 4,Real Estate and Construction,4,654-321-0987
+Startup 5,Energy And Environment,5,543-210-9876
+Startup 6,Consumer goods and services,6,432-109-8765
+Startup 7,Blockchain,7,321-098-7654
+Startup 8,HR Tec,8,210-987-6543
+Startup 9,Fintech,9,109-876-5432
+Startup 10,B2B Software,10,998-765-4321
+Startup 11,Industrial,11,887-654-3210
+Startup 12,Agriculture,12,776-543-2109
+Startup 13,B2B Software,13,665-432-1098
+Startup 14,Consumer goods and services,14,554-321-0987
+Startup 15,Marketplace,15,443-210-9876
+Startup 16,Real Estate and Construction,16,332-109-8765
+Startup 17,Government,17,221-098-7654
+Startup 18,HR Tec,18,110-987-6543
+Startup 19,Deep Tech,19,999-876-5432
+Startup 20,Energy And Environment,20,888-765-4321
+Startup 21,Automotive,21,777-654-3210
+Startup 22,Healthcare,22,666-543-2109
+Startup 23,Marketplace,23,555-432-1098
+Startup 24,HR Tec,24,444-321-0987
+Startup 25,Energy And Environment,25,333-210-9876
+Startup 26,B2B Software,26,222-109-8765
+Startup 27,Blockchain,27,111-098-7654
+Startup 28,Industrial,28,900-987-6543
+Startup 29,Agriculture,29,890-876-5432
+Startup 30,Energy And Environment,30,880-765-4321
+Startup 31,Marketplace,31,870-654-3210
+Startup 32,B2B Software,32,860-543-2109
+Startup 33,Automotive,33,850-432-1098
+Startup 34,Government,34,840-321-0987
+Startup 35,Blockchain,35,830-210-9876
+Startup 36,Agriculture,36,820-109-8765
+Startup 37,Fintech,37,810-098-7654
+Startup 38,Marketplace,38,800-987-6543
+Startup 39,HR Tec,39,790-876-5432
+Startup 40,Consumer goods and services,40,780-765-4321
+Startup 41,B2B Software,41,770-654-3210
+Startup 42,Energy And Environment,42,760-543-2109
+Startup 43,Energy And Environment,43,750-432-1098
+Startup 44,B2B Software,44,740-321-0987
+Startup 45,Energy And Environment,45,730-210-9876
+Startup 46,Fintech,46,720-109-8765
+Startup 47,Agriculture,47,710-098-7654
+Startup 48,Agriculture,48,700-987-6543
+Startup 49,HR Tec,49,690-876-5432
+Startup 50,Agriculture,50,680-765-4321
+Startup 51,Energy And Environment,51,670-654-3210
+Startup 52,Automotive,52,660-543-2109
+Startup 53,Agriculture,53,650-432-1098
+Startup 54,Industrial,54,640-321-0987
+Startup 55,Blockchain,55,630-210-9876
+Startup 56,Agriculture,56,620-109-8765
+Startup 57,Deep Tech,57,610-098-7654
+Startup 58,Energy And Environment,58,600-987-6543
+Startup 59,Fintech,59,590-876-5432
+Startup 60,B2B Software,60,580-765-4321
+Startup 61,Healthcare,61,570-654-3210
+Startup 62,Government,62,560-543-2109
+Startup 63,Healthcare,63,550-432-1098
+Startup 64,Fintech,64,540-321-0987
+Startup 65,Healthcare,65,530-210-9876
+Startup 66,Deep Tech,66,520-109-8765
+Startup 67,Automotive,67,510-098-7654
+Startup 68,Marketplace,68,500-987-6543
+Startup 69,Media/Media Tech,69,490-876-5432
+Startup 70,B2B Software,70,480-765-4321
+Startup 71,Agriculture,71,470-654-3210
+Startup 72,Real Estate and Construction,72,460-543-2109
+Startup 73,Web3,73,450-432-1098
+Startup 74,Consumer goods and services,74,440-321-0987
+Startup 75,Fintech,75,430-210-9876
+Startup 76,Media/Media Tech,76,420-109-8765
+Startup 77,Automotive,77,410-098-7654
+Startup 78,B2B Software,78,400-987-6543
+Startup 79,Media/Media Tech,79,390-876-5432
+Startup 80,Fintech,80,380-765-4321
+Startup 81,Media/Media Tech,81,370-654-3210
+Startup 82,Consumer goods and services,82,360-543-2109
+Startup 83,Web3,83,350-432-1098
+Startup 84,Deep Tech,84,340-321-0987
+Startup 85,Blockchain,85,330-210-9876
+Startup 86,Government,86,320-109-8765
+Startup 87,Real Estate and Construction,87,310-098-7654
+Startup 88,Marketplace,88,300-987-6543
+Startup 89,Deep Tech,89,290-876-5432
+Startup 90,Consumer goods and services,90,280-765-4321
+Startup 91,Media/Media Tech,91,270-654-3210
+Startup 92,Industrial,92,260-543-2109
+Startup 93,Industrial,93,250-432-1098
+Startup 94,Agriculture,94,240-321-0987
+Startup 95,Blockchain,95,230-210-9876
+Startup 96,Marketplace,96,220-109-8765
+Startup 97,Agriculture,97,210-098-7654
+Startup 98,Industrial,98,200-987-6543
+Startup 99,Blockchain,99,190-876-5432
+Startup 100,Government,100,180-765-4321
+Startup 101,Real Estate and Construction,101,170-654-3210
+Startup 102,Marketplace,102,160-543-2109
+Startup 103,Deep Tech,103,150-432-1098
+Startup 104,Consumer goods and services,104,140-321-0987
+Startup 105,Media/Media Tech,105,130-210-9876
+Startup 106,Industrial,106,120-109-8765
+Startup 107,Industrial,107,110-098-7654
+Startup 108,Agriculture,108,100-987-6543
+Startup 109,Blockchain,109,090-876-5432
+Startup 110,Marketplace,110,080-765-4321
+Startup 111,Agriculture,111,070-654-3210
+Startup 112,Industrial,112,060-543-2109
+Startup 113,Blockchain,113,050-432-1098
+Startup 114,Government,114,040-321-0987
+Startup 115,Real Estate and Construction,115,030-210-9876
+Startup 116,Marketplace,116,020-109-8765
+Startup 117,Deep Tech,117,010-098-7654
+Startup 118,Consumer goods and services,118,999-000-1111
+Startup 119,Media/Media Tech,119,888-111-2222
+Startup 120,Industrial,120,777-222-3333
+Startup 121,Industrial,121,666-333-4444
+Startup 122,Agriculture,122,555-444-5555
+Startup 123,Blockchain,123,444-555-6666
+Startup 124,Marketplace,124,333-666-7777
+Startup 125,Agriculture,125,222-777-8888
+Startup 126,Industrial,126,111-888-9999
+Startup 127,Blockchain,127,999-999-8888
+Startup 128,Government,128,888-888-7777
+Startup 129,Real Estate and Construction,129,777-777-6666
+Startup 130,Marketplace,130,666-666-5555
+Startup 131,Deep Tech,131,555-555-4444
+Startup 132,Consumer goods and services,132,444-444-3333
+Startup 133,Media/Media Tech,133,333-333-2222
+Startup 134,Industrial,134,222-222-1111
+Startup 135,Industrial,135,111-111-0000
+Startup 136,Agriculture,136,900-100-2000
+Startup 137,Blockchain,137,800-200-3000
+Startup 138,Marketplace,138,700-300-4000
+Startup 139,Agriculture,139,600-400-5000
+Startup 140,Industrial,140,500-500-6000
+Startup 141,Blockchain,141,400-600-7000
+Startup 142,Government,142,300-700-8000
+Startup 143,Real Estate and Construction,143,200-800-9000
+Startup 144,Marketplace,144,100-900-0000
+Startup 145,Deep Tech,145,999-111-0001
+Startup 146,Consumer goods and services,146,888-222-0002
+Startup 147,Media/Media Tech,147,777-333-0003
+Startup 148,Industrial,148,666-444-0004
+Startup 149,Industrial,149,555-555-0005
+Startup 150,Agriculture,150,444-666-0006
+Startup 151,Blockchain,151,333-777-0007
+Startup 152,Marketplace,152,222-888-0008
+Startup 153,Agriculture,153,111-999-0009
+Startup 154,Industrial,154,000-000-1234
+Startup 155,Blockchain,155,123-456-7890
+Startup 156,Government,156,987-123-4567
+Startup 157,Real Estate and Construction,157,654-789-1230
+Startup 158,Marketplace,158,321-654-9870
+Startup 159,Deep Tech,159,246-135-8024
+Startup 160,Consumer goods and services,160,135-802-4681
+Startup 161,Media/Media Tech,161,802-468-1357
+Startup 162,Industrial,162,468-135-8023
+Startup 163,Industrial,163,975-308-6421
+Startup 164,Agriculture,164,864-197-5302
+Startup 165,Blockchain,165,753-086-4197
+Startup 166,Marketplace,166,642-975-3086
+Startup 167,Agriculture,167,531-864-1975
+Startup 168,Industrial,168,420-753-0864
+Startup 169,Blockchain,169,309-642-9753
+Startup 170,Government,170,198-531-8642
+Startup 171,Real Estate and Construction,171,087-420-7531
+Startup 172,Marketplace,172,976-309-6420
+Startup 173,Deep Tech,173,865-198-5319
+Startup 174,Consumer goods and services,174,754-087-4208
+Startup 175,Media/Media Tech,175,643-976-3097
+Startup 176,Industrial,176,532-865-1986
+Startup 177,Industrial,177,421-754-0875
+Startup 178,Agriculture,178,310-643-9764
+Startup 179,Blockchain,179,199-532-8653
+Startup 180,Marketplace,180,088-421-7542
+Startup 181,Agriculture,181,977-310-6431
+Startup 182,Industrial,182,866-199-5320
+Startup 183,Blockchain,183,755-088-4219
+Startup 184,Government,184,644-977-3108
+Startup 185,Real Estate and Construction,185,533-866-1997
+Startup 186,Marketplace,186,422-755-0886
+Startup 187,Deep Tech,187,311-644-9775
+Startup 188,Consumer goods and services,188,200-533-8664
+Startup 189,Media/Media Tech,189,089-422-7553
+Startup 190,Industrial,190,978-311-6442
+Startup 191,Industrial,191,867-200-5331
+Startup 192,Agriculture,192,756-089-4220
+Startup 193,Blockchain,193,645-978-3119
+Startup 194,Marketplace,194,534-867-2008
+Startup 195,Agriculture,195,423-756-0897
+Startup 196,Industrial,196,312-645-9786
+Startup 197,Blockchain,197,201-534-8675
+Startup 198,Government,198,090-423-7564
+Startup 199,Real Estate and Construction,199,979-312-6453
+Startup 200,Marketplace,200,868-201-5342
+Startup 201,Deep Tech,201,757-090-4231
+Startup 202,Consumer goods and services,202,646-979-3120
+Startup 203,Media/Media Tech,203,535-868-2019
+Startup 204,Industrial,204,424-757-0908
+Startup 205,Industrial,205,313-646-9797
+Startup 206,Agriculture,206,202-535-8686
+Startup 207,Blockchain,207,091-424-7575
+Startup 208,Marketplace,208,980-313-6464
+Startup 209,Agriculture,209,869-202-5353
+Startup 210,Industrial,210,758-091-4242
+Startup 211,Blockchain,211,647-980-3131
+Startup 212,Government,212,536-869-2020
+Startup 213,Real Estate and Construction,213,425-758-0919
+Startup 214,Marketplace,214,314-647-9808
+Startup 215,Deep Tech,215,203-536-8697
+Startup 216,Consumer goods and services,216,092-425-7586
+Startup 217,Media/Media Tech,217,981-314-6475
+Startup 218,Industrial,218,870-203-5364
+Startup 219,Industrial,219,759-092-4253
+Startup 220,Agriculture,220,648-981-3142
+Startup 221,Blockchain,221,537-870-2031
+Startup 222,Marketplace,222,426-759-0920
+Startup 223,Agriculture,223,315-648-9819
+Startup 224,Industrial,224,204-537-8708
+Startup 225,Blockchain,225,093-426-7597
+Startup 226,Government,226,
+Startup 227,Real Estate and Construction,227,
+Startup 228,Marketplace,228,
+Startup 229,Deep Tech,229,
+Startup 230,Consumer goods and services,230,
+Startup 231,Media/Media Tech,231,
+Startup 232,Industrial,232,
+Startup 233,Industrial,233,
+Startup 234,Agriculture,234,
+Startup 235,Blockchain,235,
+Startup 236,Marketplace,236,
+Startup 237,Agriculture,237,
+Startup 238,Industrial,238,
+Startup 239,Blockchain,239,
+Startup 240,Government,240,
+Startup 241,Real Estate and Construction,241,
+Startup 242,Marketplace,242,
+Startup 243,Deep Tech,243,
+Startup 244,Consumer goods and services,244,
+Startup 245,Media/Media Tech,245,
+Startup 246,Industrial,246,
+Startup 247,Industrial,247,
+Startup 248,Agriculture,248,
+Startup 249,Blockchain,249,
+Startup 250,Marketplace,250,

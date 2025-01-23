@@ -1,0 +1,51 @@
+Name,Sector 1,Sector 2,Sector 3,Index 
+Mentor 1,B2B Software,Marketplace,Media/Media Tech,1
+Mentor 2,Consumer goods and services,HR Tec,Government,2
+Mentor 3,Industrial,Deep Tech,Blockchain,3
+Mentor 4,Web3,B2B Software,Government,4
+Mentor 5,Government,Healthcare,Healthcare,5
+Mentor 6,Blockchain,Healthcare,Industrial,6
+Mentor 7,Web3,Fintech,Fintech,7
+Mentor 8,Energy And Environment,Blockchain,Consumer goods and services,8
+Mentor 9,Agriculture,Automotive,HR Tec,9
+Mentor 10,Industrial,HR Tec,Deep Tech,10
+Mentor 11,Other ,Real Estate and Construction,Healthcare,11
+Mentor 12,Fintech,Energy And Environment,Consumer goods and services,12
+Mentor 13,Other ,Automotive,Energy And Environment,13
+Mentor 14,Deep Tech,HR Tec,Blockchain,14
+Mentor 15,Consumer goods and services,Deep Tech,Blockchain,15
+Mentor 16,HR Tec,Healthcare,Deep Tech,16
+Mentor 17,Other ,Automotive,Blockchain,17
+Mentor 18,Industrial,Consumer goods and services,Consumer goods and services,18
+Mentor 19,Media/Media Tech,Government,Web3,19
+Mentor 20,B2B Software,Other ,Blockchain,20
+Mentor 21,Consumer goods and services,Automotive,Industrial,21
+Mentor 22,Energy And Environment,B2B Software,Industrial,22
+Mentor 23,Healthcare,Industrial,Blockchain,23
+Mentor 24,Real Estate and Construction,B2B Software,Web3,24
+Mentor 25,Blockchain,Government,B2B Software,25
+Mentor 26,HR Tec,Other ,Marketplace,26
+Mentor 27,Healthcare,Industrial,B2B Software,27
+Mentor 28,B2B Software,Blockchain,HR Tec,28
+Mentor 29,Marketplace,Government,Web3,29
+Mentor 30,Media/Media Tech,Government,Real Estate and Construction,30
+Mentor 31,Agriculture,Blockchain,Deep Tech,31
+Mentor 32,HR Tec,Fintech,Energy And Environment,32
+Mentor 33,B2B Software,HR Tec,Fintech,33
+Mentor 34,Energy And Environment,Marketplace,Media/Media Tech,34
+Mentor 35,Web3,Deep Tech,Fintech,35
+Mentor 36,Industrial,Real Estate and Construction,Consumer goods and services,36
+Mentor 37,Industrial,Deep Tech,Automotive,37
+Mentor 38,Other ,Real Estate and Construction,Web3,38
+Mentor 39,Agriculture,Web3,Web3,39
+Mentor 40,Blockchain,HR Tec,Web3,40
+Mentor 41,Fintech,Energy And Environment,Government,41
+Mentor 42,Industrial,Automotive,Healthcare,42
+Mentor 43,Industrial,B2B Software,Other ,43
+Mentor 44,Fintech,HR Tec,Agriculture,44
+Mentor 45,Automotive,Marketplace,Government,45
+Mentor 46,Media/Media Tech,Media/Media Tech,Consumer goods and services,46
+Mentor 47,Automotive,Web3,HR Tec,47
+Mentor 48,Real Estate and Construction,Deep Tech,Government,48
+Mentor 49,Deep Tech,Fintech,B2B Software,49
+Mentor 50,Automotive,Blockchain,Fintech,50
